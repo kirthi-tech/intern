@@ -1,1 +1,1 @@
-#kirthi-tech/intern
+kirthi-tech/intern
